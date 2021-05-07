@@ -1,0 +1,21 @@
+env-file.txt
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Jenv
+.java-version
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Branch switching
+generated/
+/otel/splunk-otel-javaagent-all.jar
